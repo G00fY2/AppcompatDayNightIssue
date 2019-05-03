@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppcompatDayNightIssue</string>
+    <string name="toggle_mode">Toggle Day/Night mode</string>
+    <string name="goto_activity_b">Go to Activity B</string>
+</resources>
